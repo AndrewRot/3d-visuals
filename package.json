@@ -1,0 +1,12 @@
+{
+  "name": "3d-visuals",
+  "version": "1.0.0",
+  "description": "3d webgl graphics",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
