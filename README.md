@@ -9,7 +9,7 @@ Designed for live visuals, experiments with audiovisual interaction, and easy mo
 ## Preview
 
 <!-- Drop your demo GIF(s) here -->
-![Demo GIF](./media/demo.gif)
+![Demo GIF](./resources/demo.mov)
 
 > Replace the file path above with your own capture.
 
